@@ -1,144 +1,161 @@
 {
-    "basics": {
-        "name": "Jo Lienhoop",
-        "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
-        "phone": "(XXX) XXX-XXXX",
-        "picture": "jl.png",
-        "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
-        "location": {
-            "address": "XX XXXXXstreet",
-            "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
-        },
-        "profiles": [
-            {
-                "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
-                "x_icon": "fab fa-google"
-            },
-            {
-                "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
-                "x_icon": "fab fa-linkedin-in"
-            },
-            {
-                "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
-                "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "johoop",
-                "url": "https://gitlab.com/JoHoop",
-                "x_icon": "fab fa-gitlab"
-            },
-            {
-                "network": "Telegram",
-                "username": "jolienhoop",
-                "url": "https://t.me/jolienhoop",
-                "x_icon": "fab fa-telegram-plane"
-            },
-            {
-                "network": "Discord",
-                "username": "Jo#4467",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
-            }
-        ]
+  "basics": {
+    "name": "John Go",
+    "label": "Frontend / Fullstack Developer",
+    "email": "johnrggo@gmail.com",
+    "phone": "(+63) 927-290-2017",
+    "picture": "jl.png",
+    "x_title": "Hey, I'm",
+    "job": "Frontend / Fullstack Developer",
+    "description": "I am John Go - an entrepreneur and software engineer with a passion of making things happen. My projects include UI/UX design, web application development and automotive customization.",
+    "summary": "based in Cagayan de Oro, Philippines.",
+    "keywords": "personal,website,portfolio,template,kit,John,Regner,Go,information,systems,software,engineering,cagayandeoro,philippines,react,github,linkedin,google,facebook,telegram,material,design,ui,ux,webapp",
+    "url": "https://johngo.tech",
+    "location": {
+      "address": "XX XXXXXstreet",
+      "postalCode": "XXXXX",
+      "city": "Cagayan de Oro",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "region": "Northern Mindanao"
     },
-    "work": [
-        {
-            "company": "Company",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "highlights": ["Started the company"]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
-    "education": [
-        {
-            "institution": "University",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
-    "skills": [
-        {
-            "name": "Web Development",
-            "level": "Master",
-            "keywords": ["HTML", "CSS", "Javascript"]
-        }
-    ],
-    "languages": [
-        {
-            "language": "German",
-            "fluency": "Native speaker"
-        },
-        {
-            "language": "English",
-            "fluency": "Fluent speaker"
-        },
-        {
-            "language": "French",
-            "fluency": "Good knowledge"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference..."
-        }
+    "profiles": [
+      {
+        "network": "Google",
+        "username": "johnrggo@gmail.com",
+        "url": "mailto:johnrggo@gmail.com",
+        "x_icon": "fab fa-google"
+      },
+
+      {
+        "network": "Facebook",
+        "username": "johnregnergoii",
+        "url": "https://www.facebook.com/johnregnergoii/",
+        "x_icon": "fab fa-facebook"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "johnrggo",
+        "url": "https://www.linkedin.com/in/johnrggo/",
+        "x_icon": "fab fa-linkedin-in"
+      },
+      {
+        "network": "GitHub",
+        "username": "johnrggo",
+        "url": "https://github.com/johnrggo",
+        "x_icon": "fab fa-github"
+      },
+      {
+        "network": "Telegram",
+        "username": "johnrggo",
+        "url": "https://t.me/johnrggo",
+        "x_icon": "fab fa-telegram-plane"
+      }
     ]
+  },
+  "work": [
+    {
+      "company": "GO Autoworks Lab",
+      "position": "Social Media Manager / Co-Founder",
+      "website": "https://www.facebook.com/GOAutoworksLab",
+      "startDate": "2018-08-28",
+      "endDate": "2020-01-01",
+      "summary": "Description...",
+      "highlights": [
+        "Started the company and acted as the social media manager for online content."
+      ]
+    },
+    {
+      "company": "The AreaTwo Software Group",
+      "position": "Frontend Developer",
+      "website": "https://www.theareatwo.com/",
+      "startDate": "2021-01-03",
+      "endDate": "2021-01-31",
+      "summary": "Description...",
+      "highlights": [
+        "Worked as a web developer in a startup B2B e-commerce tech company."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "area": "Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-06-10",
+      "endDate": "2018-03-26",
+      "gpa": "4.0",
+      "courses": [
+        "Learned Programming Fundamentals (Java and C++), Networks and Internet Technology (HTML and CSS), Relational Databases (MySQL), Human Computer Interaction, Discrete Structures, System Infrastructure and Integration, Applications Development, Business and Management, Systems Analysis and Design, Information Systems Planning, Business Processes, Project Management."
+      ]
+    },
+    {
+      "institution": "College",
+      "area": "Software Engineering",
+      "studyType": "Diploma",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-30",
+      "gpa": "4.0",
+      "courses": [
+        "Learned Software Engineering Fundamentals, C#, HTML, CSS, JavaScript, Oracle SQL and Ubuntu Linux."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript", "React", "Firebase"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Filipino",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
 }
