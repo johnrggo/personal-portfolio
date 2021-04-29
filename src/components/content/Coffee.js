@@ -6,15 +6,14 @@ import { Tooltip, Typography, Zoom } from "@material-ui/core";
 const Container = styled.div`
   width: 300px;
 
-  /* @media (max-width: 500px) {
-    display: none;
-  } */
+  @media (max-width: 500px) {
+    width: 60px;
+  }
 `;
 
 const Button = styled.a`
   line-height: 36px;
   height: 3.75rem;
-  /* min-width: 150px; */
   padding-right: 1rem;
   text-decoration: none;
   display: flex;
