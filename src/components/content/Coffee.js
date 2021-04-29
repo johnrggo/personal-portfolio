@@ -78,7 +78,7 @@ function Coffee() {
     <Container>
       <Tooltip
         title={"Coffee plith 🥺👉🏽👈🏽"}
-        placement="right"
+        placement="left"
         TransitionComponent={Zoom}
       >
         <Button target="_blank" href="https://www.buymeacoffee.com/johngo">
