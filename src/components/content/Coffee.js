@@ -4,7 +4,11 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import { Tooltip, Typography, Zoom } from "@material-ui/core";
 
 const Container = styled.div`
-  width: 300px;
+  width: 260px;
+  overflow: visible;
+  position: absolute;
+  left: 3rem;
+  bottom: 3rem;
 
   @media (max-width: 500px) {
     width: 60px;
@@ -14,6 +18,9 @@ const Container = styled.div`
 const Button = styled.a`
   line-height: 36px;
   height: 3.75rem;
+  margin-right: auto;
+  padding: 1px 9px;
+  padding-left: 1rem;
   padding-right: 1rem;
   text-decoration: none;
   display: flex;
@@ -21,13 +28,10 @@ const Button = styled.a`
   background-color: #40dca5;
   border-radius: 6px;
   border: 1px solid transparent;
-  padding: 1px 9px;
-  padding-left: 1rem;
   font-size: 23px;
   letter-spacing: 0.6px;
   box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5);
   -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5);
-  margin: 0 auto 3rem 3rem;
   font-family: "Cookie", cursive;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -53,7 +57,7 @@ const Button = styled.a`
 
   > .button__text {
     padding-top: 4px;
-    padding-left: 4px;
+    padding-left: 10px;
 
     @media (max-width: 500px) {
       display: none;
