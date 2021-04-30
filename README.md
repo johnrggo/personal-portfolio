@@ -4,6 +4,7 @@
 
 [![Website johngo.tech](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://johngo.tech)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoHoop/personal-website-react/graphs/commit-activity)
 
 A clean, responsive, single-page webapp template for developers. View demo at [johngo.tech](https://johngo.tech)
 

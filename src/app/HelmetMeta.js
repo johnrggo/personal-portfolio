@@ -8,8 +8,7 @@ export const HelmetMeta = () => {
     <Helmet>
       <meta name="theme-color" content={Settings.colors.primary} />
       <title>
-        {Resume.basics.name} | {Resume.basics.location.city},{" "}
-        {Resume.basics.location.country}
+        {Resume.basics.name} | {Resume.basics.label}
       </title>
       <meta name="author" content={Resume.basics.name} />
       <meta name="description" content={Resume.basics.description} />
