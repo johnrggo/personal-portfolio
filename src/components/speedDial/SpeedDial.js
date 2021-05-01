@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
   iconButton: {
     height: "3.75rem",
     width: "3.75rem",
-    marginTop: "10px",
+    marginTop: "14px",
   },
   icon: {
     fontSize: "2rem",

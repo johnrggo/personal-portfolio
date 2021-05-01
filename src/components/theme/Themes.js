@@ -73,6 +73,13 @@ export const LightTheme = responsiveFontSizes(
           transition: "all 0.5s ease !important",
         },
       },
+      MuiSvgIcon : {
+        root: {
+        width: "1em",
+        height: "1em",
+        fontSize: "1.5em"
+        },
+      },
       MuiSpeedDialAction: {
         fab: {
           color: white,
@@ -84,6 +91,9 @@ export const LightTheme = responsiveFontSizes(
           transition: "all 0.5s ease",
           margin: "0px",
           marginBottom: "16px",
+          width: "3.75rem",
+          height: "3.75rem",
+          fontSize: "2rem",
         },
       },
       MuiTooltip: {
@@ -91,7 +101,7 @@ export const LightTheme = responsiveFontSizes(
           fontFamily: "Roboto Mono, monospace",
           backgroundColor: primary,
           color: black,
-          fontSize: 13,
+          fontSize: 15,
         },
       },
     },
@@ -165,6 +175,13 @@ export const DarkTheme = responsiveFontSizes(
           transition: "all 0.5s ease !important",
         },
       },
+      MuiSvgIcon : {
+        root: {
+        width: "1em",
+        height: "1em",
+        fontSize: "1.5em"
+        },
+      },
       MuiSpeedDialAction: {
         fab: {
           color: white,
@@ -176,6 +193,9 @@ export const DarkTheme = responsiveFontSizes(
           transition: "all 0.5s ease",
           margin: "0px",
           marginBottom: "16px",
+          width: "3.75rem",
+          height: "3.75rem",
+          fontSize: "2rem",
         },
       },
       MuiTooltip: {

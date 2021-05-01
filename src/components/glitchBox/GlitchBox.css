@@ -1,12 +1,12 @@
 .glitchBox {
   --primary: hsl(
     var(--primary-hue),
-    100%,
-    calc(var(--primary-lightness, 50) * 0.8%)
+    90%,
+    calc(var(--primary-lightness) * 0.85%)
   );
   --shadow-primary: hsl(var(--shadow-primary-hue), 90%, 50%);
-  --primary-hue: -190;
-  --primary-lightness: 45;
+  --primary-hue: -197.5;
+  --primary-lightness: 54.75;
   --color: hsl(0, 0%, 100%);
   --font-size: clamp(100%, 1.25rem + 1vw, 32px);
   --shadow-primary-hue: 420;
@@ -108,7 +108,6 @@
   height: 80px;
   line-height: 75px;
   margin-top: 2rem;
-  /* box-shadow: inset -3px 0 0 var(--shadow-primary); */
 }
 
 @media (min-width: 768px) {

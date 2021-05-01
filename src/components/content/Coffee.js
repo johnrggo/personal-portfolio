@@ -30,8 +30,6 @@ const Button = styled.a`
   border: 1px solid transparent;
   font-size: 23px;
   letter-spacing: 0.6px;
-  box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5);
-  -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5);
   font-family: "Cookie", cursive;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -44,9 +42,7 @@ const Button = styled.a`
   &:hover,
   &:active,
   &:focus {
-    -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5);
     text-decoration: none;
-    box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5);
     opacity: 0.85;
     color: black;
   }
