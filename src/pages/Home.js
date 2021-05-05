@@ -8,7 +8,7 @@ import { ThemeToggle } from "../components/theme/ThemeToggle";
 // import { FooterText } from "../components/footer/FooterText";
 import { SocialIcons } from "../components/content/SocialIcons";
 import { SpeedDials } from "../components/speedDial/SpeedDial";
-import Coffee from "../components/content/Coffee";
+import { FooterButton } from "../components/footer/FooterButton";
 
 const useStyles = makeStyles(() => ({
   root: {
@@ -17,10 +17,6 @@ const useStyles = makeStyles(() => ({
     minHeight: "100vh",
     boxSizing: "border-box",
   },
-  // section2: {
-  //   height: "80vh",
-  //   backgroundColor: "gray",
-  // },
 }));
 
 export const Home = () => {
@@ -39,7 +35,7 @@ export const Home = () => {
         <Hidden mdUp>
           <SpeedDials />
         </Hidden>
-        <Coffee />
+        <FooterButton />
       </div>
     </>
   );
