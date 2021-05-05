@@ -47,7 +47,7 @@ export const FooterButton = () => {
 
   return (
     <Tooltip
-      title={"Coffee??? 🥺👉🏽👈🏽"}
+      title={"Plith 🥺👉🏽👈🏽"}
       placement="left"
       TransitionComponent={Zoom}
     >
