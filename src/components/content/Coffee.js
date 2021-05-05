@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { TextDecrypt } from "../content/TextDecrypt";
 import { Tooltip, Typography, Zoom, Link } from "@material-ui/core";
-
+import coffee from "./coffee.svg";
 // const Container = styled.div`
 //   width: 260px;
 //   overflow: visible;
@@ -85,11 +85,7 @@ function Coffee() {
         TransitionComponent={Zoom}
       >
         <Button>
-          <Image
-            src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
-            onerror="this.onerror=null;this.src='https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg'"
-            alt="Coffee"
-          />
+          <Image src={coffee} alt="Coffee" />
           <Typography className="button__Text">
             <TextDecrypt className="button__Text" text={"Buy me a coffee"} />
           </Typography>
