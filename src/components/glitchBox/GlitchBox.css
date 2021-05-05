@@ -116,9 +116,9 @@
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 200px) {
   .glitchBox {
-    min-width: 200px;
+    min-width: 240px;
     height: 60px;
     letter-spacing: 0.5px;
     line-height: 20px;
@@ -126,11 +126,7 @@
 }
 
 .glitchBox:hover {
-  --primary: hsl(
-    var(--primary-hue),
-    85%,
-    calc(var(--primary-lightness, 50) * 0.5%)
-  );
+  color: black;
 }
 .glitchBox:active {
   --primary: hsl(

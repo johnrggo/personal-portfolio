@@ -5,7 +5,7 @@ import Coffee from "../content/Coffee";
 const useStyles = makeStyles((theme) => ({
   footerText: {
     position: "absolute",
-    bottom: theme.spacing(6),
+    bottom: "theme.spacing(6)",
     left: "theme.spacing(6)",
     "&:hover": {
       color: theme.palette.primary.main,

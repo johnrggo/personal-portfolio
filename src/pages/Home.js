@@ -5,20 +5,22 @@ import { Hidden } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import DisplacementSphere from "../components/background/DisplacementSphere";
 import { ThemeToggle } from "../components/theme/ThemeToggle";
-import { FooterText } from "../components/footer/FooterText";
+// import { FooterText } from "../components/footer/FooterText";
 import { SocialIcons } from "../components/content/SocialIcons";
 import { SpeedDials } from "../components/speedDial/SpeedDial";
+import Coffee from "../components/content/Coffee";
 
 const useStyles = makeStyles(() => ({
   root: {
     display: "flex",
     flexDirection: "column",
-    height: "100vh",
+    minHeight: "100vh",
+    boxSizing: "border-box",
   },
-  section2: {
-    height: "80vh",
-    backgroundColor: "gray",
-  },
+  // section2: {
+  //   height: "80vh",
+  //   backgroundColor: "gray",
+  // },
 }));
 
 export const Home = () => {
@@ -37,7 +39,7 @@ export const Home = () => {
         <Hidden mdUp>
           <SpeedDials />
         </Hidden>
-        <FooterText />
+        <Coffee />
       </div>
     </>
   );
