@@ -1,3 +1,8 @@
+* {
+  outline: 1px red solid !important;
+  visibility: visible !important;
+}
+
 ::-moz-selection {
   background: #00bfbf;
   color: #fafafa;

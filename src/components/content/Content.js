@@ -10,9 +10,6 @@ const useStyles = makeStyles((theme) => ({
   main: {
     marginTop: "auto",
     marginBottom: "auto",
-    "@media (max-width: 768px)": {
-      marginLeft: theme.spacing(4),
-    },
   },
 }));
 
@@ -22,9 +19,7 @@ export const Content = () => {
   return (
     <Container component="main" className={`${classes.main}`} maxWidth="sm">
       <Typography variant="h2" component="h1" gutterBottom>
-        <TextDecrypt
-          text={`${Resume.basics.x_title} ${FirstName}`}
-        />
+        <TextDecrypt text={`${Resume.basics.x_title} ${FirstName}`} />
       </Typography>
       <Typography variant="h5" component="h2" gutterBottom>
         <TextDecrypt text={`a ${Resume.basics.job}`} />
