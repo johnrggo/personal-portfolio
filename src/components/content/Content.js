@@ -14,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
       paddingLeft: theme.spacing(6),
     },
     "@media (max-width: 400px)": {
-      paddingLeft: theme.spacing(2),
+      paddingLeft: theme.spacing(4),
     },
   },
 }));
