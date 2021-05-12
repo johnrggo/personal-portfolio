@@ -1,10 +1,10 @@
-# Personal Website React
+# Personal Portfolio Website
 
 [![Screenshot](/public/social-image.png?raw=true)](https://johngo.tech)
 
 [![Website johngo.tech](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://johngo.tech)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoHoop/personal-website-react/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/johnrggo/personal-portfolio/graphs/commit-activity)
 
 A clean, responsive, single-page webapp template for developers. View demo at [johngo.tech](https://johngo.tech)
 
@@ -13,7 +13,7 @@ A clean, responsive, single-page webapp template for developers. View demo at [j
 - styled with [Material-UI](https://material-ui.com/)
 - deployed with [Vercel](https://vercel.com) and hosted at [johngo.tech](https://johngo.tech)
 
-Special thanks to [Cody Bennett](https://github.com/CodyJasonBennett), [Jo Lienhoop](https://github.com/JoHoop) and company for the inspiration.
+Special thanks to [Cody Bennett](https://github.com/CodyJasonBennett) and company for the inspiration.
 
 ## Features
 
