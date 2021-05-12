@@ -21,17 +21,17 @@
     },
     "profiles": [
       {
-        "network": "Google",
+        "network": "Email",
         "username": "johnrggo@gmail.com",
         "url": "mailto:johnrggo@gmail.com",
-        "x_icon": "fab fa-google"
+        "x_icon": "fa fa-envelope"
       },
 
       {
-        "network": "Facebook",
-        "username": "johnregnergoii",
-        "url": "https://www.facebook.com/johnregnergoii/",
-        "x_icon": "fab fa-facebook"
+        "network": "Twitter",
+        "username": "johnrggo",
+        "url": "https://twitter.com/johnrggo",
+        "x_icon": "fab fa-twitter"
       },
       {
         "network": "LinkedIn",

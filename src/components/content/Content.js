@@ -10,6 +10,12 @@ const useStyles = makeStyles((theme) => ({
   main: {
     marginTop: "auto",
     marginBottom: "auto",
+    "@media (max-width: 959px)": {
+      paddingLeft: theme.spacing(6),
+    },
+    "@media (max-width: 400px)": {
+      paddingLeft: theme.spacing(2),
+    },
   },
 }));
 
