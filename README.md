@@ -1,4 +1,4 @@
-# Personal Website React
+# Personal Portfolio Website
 
 [![Screenshot](/public/social-image.png?raw=true)](https://johngo.tech)
 
