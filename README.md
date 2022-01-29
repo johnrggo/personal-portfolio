@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/johnrggo/personal-portfolio/graphs/commit-activity)
 
-A clean, responsive, single-page webapp template for developers. View demo at [johngo.tech](https://johngo.tech)
+A clean, responsive, single-page webapp template for developers. View live at [johngo.tech](https://johngo.tech)
 
 - built using [React](https://reactjs.org/)
 - bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
