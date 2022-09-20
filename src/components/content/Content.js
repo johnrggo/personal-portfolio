@@ -29,7 +29,9 @@ export const Content = () => {
       </Typography>
       <Typography variant="h5" component="h2" gutterBottom>
         <TextDecrypt text={`a ${Resume.basics.job}`} />
-        <TextDecrypt text={`from ${Resume.basics.location.country}`} />
+        <TextDecrypt
+          text={`from ${Resume.basics.location.city}, ${Resume.basics.location.country}`}
+        />
       </Typography>
       <GlitchBox href="https://github.com/johnrggo?tab=repositories" />
     </Container>

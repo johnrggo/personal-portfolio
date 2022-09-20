@@ -1,23 +1,23 @@
 {
   "basics": {
     "name": "John Go",
-    "label": "Fullstack Developer",
+    "label": "Software Engineer",
     "email": "johnrggo@gmail.com",
-    "phone": "(+63) 927-290-2017",
+    "phone": "+1 (520)-551-5256",
     "picture": "social-image.png",
     "x_title": "Hey, I'm",
-    "job": "Web Developer",
+    "job": "Software Engineer",
     "description": "I am John Go - an entrepreneur and software engineer with a passion of making things happen. My projects include UI/UX design, web application development and automotive customization.",
-    "summary": "based in Cagayan de Oro, Philippines.",
-    "keywords": "personal,website,portfolio,template,kit,John,Regner,Go,information,systems,software,engineering,cagayandeoro,philippines,react,github,linkedin,google,facebook,telegram,material,design,ui,ux,webapp",
+    "summary": "based in Jersey City, USA.",
+    "keywords": "personal,website,portfolio,template,kit,John,Regner,Go,information,systems,software,engineering,cagayandeoro,philippines,newyork,newjersey,america,usa,react,github,linkedin,google,facebook,telegram,material,design,ui,ux,webapp",
     "url": "https://johngo.tech",
     "location": {
       "address": "XX XXXXXstreet",
       "postalCode": "XXXXX",
-      "city": "Cagayan de Oro",
-      "country": "Philippines",
-      "countryCode": "PH",
-      "region": "Northern Mindanao"
+      "city": "Jersey City",
+      "country": "United States",
+      "countryCode": "US",
+      "state": "New Jersey"
     },
     "profiles": [
       {
@@ -55,14 +55,14 @@
   },
   "work": [
     {
-      "company": "GO Autoworks Lab",
-      "position": "Social Media Manager / Co-Founder",
-      "website": "https://www.facebook.com/GOAutoworksLab",
-      "startDate": "2018-08-28",
-      "endDate": "2020-01-01",
+      "company": "RushMedia PH",
+      "position": "Tech Developer",
+      "website": "https://realty.com.au/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
       "summary": "Description...",
       "highlights": [
-        "Started the company and acted as the social media manager for online content."
+        "Innovate and maintain company technologies involving React (Next.js), GraphQL (Apollo), Node.js (Express) and a relational database."
       ]
     },
     {
@@ -74,6 +74,17 @@
       "summary": "Description...",
       "highlights": [
         "Worked as a web developer in a startup B2B e-commerce tech company."
+      ]
+    },
+    {
+      "company": "GO Autoworks Lab",
+      "position": "Social Media Manager / Co-Founder",
+      "website": "https://www.facebook.com/GOAutoworksLab",
+      "startDate": "2018-08-28",
+      "endDate": "2020-01-01",
+      "summary": "Description...",
+      "highlights": [
+        "Started the company and acted as the social media manager for online content."
       ]
     }
   ],
